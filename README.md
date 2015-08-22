@@ -1,5 +1,7 @@
 shadowsocks
 ===========
+commemorate clowwindy and good luck!
+Fork From clowwindy and without any change.
 
 [![PyPI version]][PyPI] [![Build Status]][Travis CI] 
 
